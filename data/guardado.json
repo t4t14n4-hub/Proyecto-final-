@@ -1,0 +1,39 @@
+[
+    {
+        "alturas": [
+            9,
+            4,
+            6,
+            0
+        ],
+        "muertas": [
+            false,
+            false,
+            false,
+            true
+        ],
+        "condiciones": [
+            {
+                "agua": 80.0,
+                "luz": 8.0,
+                "temp": 22.0
+            },
+            {
+                "agua": 150.0,
+                "luz": 8.0,
+                "temp": 22.0
+            },
+            {
+                "agua": 60.0,
+                "luz": 5.0,
+                "temp": 19.0
+            },
+            {
+                "agua": 0.0,
+                "luz": 0.0,
+                "temp": 22.0
+            }
+        ],
+        "numero": 1
+    }
+]
