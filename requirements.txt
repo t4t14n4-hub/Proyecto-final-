@@ -1,0 +1,16 @@
+#Este archivo lista las librerías externas que utiliza la aplicación de simulación de crecimiento de plantas.
+# Permite instalar todas las dependencias con:
+#    pip install -r requirements.txt
+
+
+# Librería para manejar fechas y tiempos (usada en guardados)
+python-dateutil==2.8.2
+
+# Librería para graficar datos dentro de la interfaz (Tkinter + Matplotlib)
+matplotlib==3.8.0
+
+# Librería para ejecutar pruebas automáticas del proyecto
+pytest==7.4.0
+
+# Nota: Tkinter y json son librerías integradas en Python,
+# por eso no se listan aquí.
