@@ -13,8 +13,6 @@ Para instalar y ejecutar el programa, primero se debe clonar o descargar el repo
 Clonar o descargar el repositorio del proyecto:
 git clone https://github.com/t4t14n4-hub/Proyecto-final-
 
-cd simulador-plantas
-
 Instalar las dependencias necesarias:
 pip install -r requirements.txt
 
